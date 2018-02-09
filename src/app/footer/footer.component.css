@@ -1,0 +1,9 @@
+footer{
+    margin-top: 20px;
+}
+
+.footer-content{
+    text-align: center;
+    background: pink;
+    border: 1px solid purple
+}
