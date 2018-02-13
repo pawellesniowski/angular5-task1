@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { CoursesComponent } from './courses/courses.component'
 import { CourseDetailsComponent } from './courses/course-details/course-details.component';
+import { SearchBarComponent } from './search-bar/search-bar.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { CourseDetailsComponent } from './courses/course-details/course-details.
     HeaderComponent,
     FooterComponent,
     CoursesComponent,
-    CourseDetailsComponent
+    CourseDetailsComponent,
+    SearchBarComponent
   ],
   imports: [
     BrowserModule

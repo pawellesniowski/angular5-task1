@@ -1,7 +1,32 @@
-.header{
-    margin-top: 10px;
-    margin-bottom: 20px;
-    background: pink;
-    border: 1px solid purple
+.top-bar{
+    margin: 10px 0px;
+    padding: 5px 15px;
+    font-weight: 700;
+    background: grey;
+    border: 1px solid black
 }
+
+.header{
+    margin: 10px 0px;
+    padding: 5px 15px;
+    background: grey;
+    border: 1px solid black
+}
+
+.logo{
+    width: 50px;
+    height: auto;
+}
+
+.login-area{
+    font-size: 10px;
+}
+p{
+    padding: 0px;
+    margin: 0px;
+}
+.btn{
+    margin: 5px;
+}
+
 

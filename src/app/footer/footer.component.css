@@ -1,9 +1,10 @@
 footer{
-    margin-top: 20px;
+    margin: 10px 0px;
+    padding: 5px 5px;
+    background: grey;
+    border: 1px solid black;
 }
 
 .footer-content{
     text-align: center;
-    background: pink;
-    border: 1px solid purple
 }
