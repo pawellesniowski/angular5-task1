@@ -3,6 +3,7 @@ footer{
     padding: 5px 5px;
     background: grey;
     border: 1px solid black;
+    border-radius: 5px;
 }
 
 .footer-content{

@@ -1,5 +1,17 @@
-.course-details{
+.course-details {
     border: 1px solid black;
+    border-radius: 5px;
     margin: 10px 0px;
     padding: 5px 15px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+
+
+.course-details-buttons{
+    display: flex;
+    flex-direction: column;
 }
